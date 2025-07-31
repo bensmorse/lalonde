@@ -6,7 +6,7 @@
 ## Note: gc() is for garbage collection to free up memory
 
 rm(list = ls())
-path <- "~/Dropbox/ProjectZ/lalonde/replication/" # change to the root directory of the project
+path <- "OneDrive/Documents/GitHub/lalonde"
 setwd(path)
 
 # install packages
